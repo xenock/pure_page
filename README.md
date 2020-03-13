@@ -1,2 +1,3 @@
-# HTML5_CSS3_JS
-A template for simple pure pages
+# Pure page
+
+A light template to make simple pages
